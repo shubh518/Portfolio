@@ -25,7 +25,7 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="lg:text-xl ">
-                    Welcome to my playground! , I'm the architect of user experiences, crafting elegant code 
+                    Welcome to my playground! , I am the architect of user experiences, crafting elegant code 
                     that bridges the gap between ideas and reality. With a keen eye for aesthetics and a 
                     mastery of code, my portfolio showcases a diverse collection of projects
                      that reflect my commitment to excellence.
