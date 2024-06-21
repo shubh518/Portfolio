@@ -49,7 +49,11 @@ const nextConfig = {
     
       },
       
-     
+      {
+        protocol:"https",
+        hostname:"e0.pxfuel.com",
+    
+      },
       
       
       
