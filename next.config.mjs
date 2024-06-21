@@ -54,6 +54,12 @@ const nextConfig = {
         hostname:"e0.pxfuel.com",
     
       },
+      {
+        protocol:"https",
+        hostname:"portfolio-shubham-tiwaris-projects-f7999503.vercel.app",
+    
+      },
+      
       
       
       

@@ -64,10 +64,18 @@ const items = [
   {
     id: 8,
     color: "from-red-300 to-purple-300",
-    title: "Netflix clone ",
-    desc: "CLI based Google Translator in Go Language. Used Cloud Translation Go API by google to perform translations using CLI." ,
-    img: "https://www.kosli.com/images/blog/kosli-blog-how-to-configure-cli-tools-viper-golang_hu5754498c5b3c0adb524116591b288bf3_216834_1366x0_resize_q90_h2_box.webp",
-    link: "https://github.com/shubh518/Google-Translator-in-Go",
+    title: "Portfolio website",
+    desc: "CLI based Google Translator in Go LanguageDeveloped an interactive and visually-appealing portfolio website using React Next.js, Framer Motion, and Tailwind CSS.. Used Cloud Translation Go API by google to perform translations using CLI." ,
+    img: "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/_next/image?url=%2Fme.png&w=1920&q=75",
+    link: "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/",
+  },
+  {
+    id: 9,
+    color: "from-red-300 to-purple-300",
+    title: "Portfolio website",
+    desc: "CLI based Google Translator in Go LanguageDeveloped an interactive and visually-appealing portfolio website using React Next.js, Framer Motion, and Tailwind CSS.. Used Cloud Translation Go API by google to perform translations using CLI." ,
+    img: "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/_next/image?url=%2Fme.png&w=1920&q=75",
+    link: "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/",
   },
 ];
 
