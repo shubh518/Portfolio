@@ -26,7 +26,7 @@ const items = [
     color: "from-violet-300 to-purple-300",
     title: "Ashen Ascend-Ashes to Glory",
     desc: "Initiated the development of an adaptive AI adversary system for a video game, Integrated and optimised DQN with Unreal Engine 5 in base C++ 17 Integrated player combat animations, AI combat animations, player health and stamina system, AI health system, precise frame by frame hitbox collision detection, damage calculation, precise player position tracking, UI, Main Menu Implemented using C++ 17, Unreal Engine 5, Behaviour Trees, UMG, Blueprintsonsectetur adipisicing elit. ",
-    img: "https://e1.pxfuel.com/desktop-wallpaper/49/159/desktop-wallpaper-dark-souls-and-backgrounds-backgrounds-dark-souls-bonfire.jpg",
+    img: "https://initiate.alphacoders.com/images/250/cropped-1920-1080-250101.jpg?2216",
     link: "https://ashen-ascend.jimdosite.com/",
   },
   {
