@@ -48,8 +48,12 @@ const nextConfig = {
         hostname:"www.kosli.com",
     
       },
-      
-      
+      {
+        protocol:"https",
+        hostname:"e1.pxfuel.com",
+    
+      },
+     
       
       
       
